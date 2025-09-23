@@ -1,3 +1,4 @@
-print("Hello Yashu v2! sdffsdfds")
+pnt("Hello Yashu v2! sdffsdfds")
+
 
 
